@@ -18,6 +18,11 @@ Results-driven Full Stack Developer with a strong foundation in building scalabl
     <img src="./assets/animi-guy.webp" alt="working developer">
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rambedade&color=orange" alt="Profile view counter" />
+</div>
+
+
 </p>
 <h1 align="center">🛠 Skills & Tools</h1>
 <div align="center" style="display: flex; flex-wrap: wrap;">
