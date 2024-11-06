@@ -100,7 +100,7 @@ Results-driven Full Stack Developer with a strong foundation in building scalabl
 
 ### 3D Contribution Graph
 <p align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
